@@ -69,7 +69,7 @@ handler.help = ['jadibot']
 handler.tags = ['jadibot']
 
 handler.command = /^serbot|jadibot|sersubbot|sersubot$/i
-handler.prems = false
+handler.prems = true
 handler.private = false
 
 handler.limit = false
